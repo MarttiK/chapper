@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapper", "Chapper\Chapper.csproj", "{7E83FFDE-8610-4A05-A00E-D4D46FF292B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageClient", "StorageClient\StorageClient.csproj", "{2BAC03B3-1791-4096-9921-F32FBBD7CEF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E83FFDE-8610-4A05-A00E-D4D46FF292B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E83FFDE-8610-4A05-A00E-D4D46FF292B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E83FFDE-8610-4A05-A00E-D4D46FF292B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E83FFDE-8610-4A05-A00E-D4D46FF292B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BAC03B3-1791-4096-9921-F32FBBD7CEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAC03B3-1791-4096-9921-F32FBBD7CEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAC03B3-1791-4096-9921-F32FBBD7CEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAC03B3-1791-4096-9921-F32FBBD7CEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9A8D73F-3729-4380-AD79-4CE2BCA24E00}
+	EndGlobalSection
+EndGlobal
